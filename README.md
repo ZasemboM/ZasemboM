@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Nelisa (Lisa) Mkhize  
 
-<!--
-**ZasemboM/ZasemboM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Biological Science graduate** from the University of the Witwatersrand, majoring in **Medical Cell Biology** and **Animal, Plant & Environmental Sciences**.  
+💻 I'm currently exploring **Data Science**, combining my research and analytical background with coding and data-driven insights.  
+🌱 I’m passionate about using data to solve scientific and social challenges.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 What I’m learning
+- Python and R for data analysis  
+- Machine learning fundamentals  
+- Data visualization and storytelling  
+
+---
+
+### 🌍 Interests
+- Environmental sustainability  
+- Medical research and ethics  
+- Science communication  
+- Data analytics for impact  
+
+---
+
+### 📫 Connect with me
+- **Email:** lisamkhize578@gmail.com  
+- **LinkedIn:** [Nelisa Mkhize] 
+
