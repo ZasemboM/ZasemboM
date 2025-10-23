@@ -7,9 +7,10 @@
 ---
 
 ### 🧩 What I’m learning
-- Python and R for data analysis  
+- Python for data analysis  
+- SQL for database management and queries  
 - Machine learning fundamentals  
-- Data visualization and storytelling  
+- Data visualization and storytelling
 
 ---
 
